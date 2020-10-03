@@ -1,6 +1,6 @@
 # Item counter
 
-A react app that helps you to generate a web shopping and item lists counter to be used in your store.
+A react app that produces a counter for shopping cart items.
 
 ![alt text](https://live.staticflickr.com/65535/50412177246_240d6a4f82_n.jpg)
 
