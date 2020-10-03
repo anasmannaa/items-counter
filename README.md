@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Install all modules listed as dependencies in package.json:
 
 use your terminal or prefered command line tool and browser to the counter-app folder then run the following command:
-npm install
+`npm install`
 
 ## Available Scripts
 
