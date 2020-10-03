@@ -2,7 +2,7 @@
 
 A react app that helps you to generate a web shopping and item lists counter to be used in your store.
 
-![alt text](https://github.com/anasmannaa/items-counter/blob/[branch]/image.jpg?raw=true)
+![alt text](https://live.staticflickr.com/65535/50412177246_240d6a4f82_n.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
