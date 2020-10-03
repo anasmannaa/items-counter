@@ -6,6 +6,11 @@ A react app that produces a counter for shopping cart items.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Install all modules listed as dependencies in package.json:
+
+use your terminal or prefered command line tool and browser to the counter-app folder then run the following command:
+npm install
+
 ## Available Scripts
 
 In the project directory, you can run:
